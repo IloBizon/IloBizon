@@ -1,4 +1,9 @@
 ### Hi there 👋
+This is GitHub of indie game studio called "IloBizon"
+
+Our contacts:
+Itch.io - https://ilobizon.itch.io/
+Mail - ilobizonoffers@gmail.com
 
 <!--
 **IloBizon/IloBizon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
